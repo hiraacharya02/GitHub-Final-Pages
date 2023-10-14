@@ -113,16 +113,6 @@ I read this interesting quote the other day:
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-# Mentioning people and team
-
-@github/support what do you think about these updates?
-
-# Referencing issues and pull requests
-
-# Referencing external resources
-
-# uploading assets
-
 # Using Emoji
 
 @octocat :+1: This PR looks great -it's ready to merge! :shipit:
