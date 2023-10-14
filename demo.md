@@ -127,8 +127,6 @@ I read this interesting quote the other day:
 
 @octocat :+1: This PR looks great -it's ready to merge! :shipit:
 
-# Paragraph
-
 # Footnotes
 
 Here is a simple footnote[^1]
