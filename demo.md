@@ -148,16 +148,3 @@ A footnote can also have multiple lines[^2]
 
 > [!Warning]
 > Critical content demanding immediate user attention due to potential risks.
-
-# Hiding content with comments
-
-<!-- This content will not appear in the rendered Markdown -->
-
-# Ignoring Markdown Formatting
-
-Let's rename \*our-new-project\* to \*our-old-project\*.
-
-# Disabling Markdown rendering
-
-dummy text
-<>
