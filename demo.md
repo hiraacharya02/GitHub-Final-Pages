@@ -8,10 +8,6 @@
 
 ### heading 3
 
-#### Colombian Symbolism in _One Hundred Years_ of Solitude
-
-###### Here's some words about the book _One Hundred Years..._.
-
 # Styling Text
 
 **This is Bold Text**
