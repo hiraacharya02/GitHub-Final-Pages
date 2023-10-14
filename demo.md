@@ -8,9 +8,9 @@
 
 ### heading 3
 
-####Colombian Symbolism in _One Hundred Years_ of Solitude
+#### Colombian Symbolism in _One Hundred Years_ of Solitude
 
-######Here's some words about the book _One Hundred Years..._.
+###### Here's some words about the book _One Hundred Years..._.
 
 # Styling Text
 
@@ -67,6 +67,8 @@ This site was built using [Github Pages](https://pages.github.com/).
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # Blockquotes
 
