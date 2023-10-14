@@ -127,17 +127,6 @@ I read this interesting quote the other day:
 
 @octocat :+1: This PR looks great -it's ready to merge! :shipit:
 
-# Footnotes
-
-Here is a simple footnote[^1]
-
-A footnote can also have multiple lines[^2]
-
-[^1]: My reference
-[^2]: To add line break within a footnote, prefix new lines with 2 spaces
-
-    This is second line.
-
 # Alerts
 
 > [!Note]
@@ -148,3 +137,14 @@ A footnote can also have multiple lines[^2]
 
 > [!Warning]
 > Critical content demanding immediate user attention due to potential risks.
+
+# Footnotes
+
+Here is a simple footnote[^1]
+
+A footnote can also have multiple lines[^2]
+
+[^1]: My reference
+[^2]: To add line break within a footnote, prefix new lines with 2 spaces
+
+    This is second line.
